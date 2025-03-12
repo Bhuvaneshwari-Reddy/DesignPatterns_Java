@@ -1,4 +1,4 @@
-package org.Practice;
+package org.DesignPatterns;
 import com.google.gson.Gson;
 import lombok.Builder;
 

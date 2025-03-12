@@ -1,4 +1,4 @@
-package org.Practice;
+package org.DesignPatterns;
 
 //Creates objects without exposing the instantiation logic to the client
 // and refers to the newly created object through a common interface.
@@ -22,7 +22,6 @@ package org.Practice;
            System.out.println("Drawing square");
        }
     }
-
 
 // This method hides the logic of object creation
     class ShapeTypes{

@@ -1,4 +1,4 @@
-package org.Practice;
+package org.DesignPatterns;
 
 import java.util.ArrayList;
 import java.util.List;

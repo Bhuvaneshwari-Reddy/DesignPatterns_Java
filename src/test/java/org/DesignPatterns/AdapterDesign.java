@@ -1,4 +1,4 @@
-package org.Practice;
+package org.DesignPatterns;
 //Allows the interface of an existing class to be used as another interface,
 // making it compatible with what the client expects.
 
